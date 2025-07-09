@@ -7,8 +7,8 @@
         <mxCell id="EcNeO7zOBYpXXdtmW0NH-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcNeO7zOBYpXXdtmW0NH-2" value="&lt;div&gt;&lt;div&gt;1.强功能需求：&lt;/div&gt;&lt;/div&gt;&lt;div&gt;文件上传/下载：支持大文件GB级别，提供进度反馈，断点续传&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="55" width="360" height="60" as="geometry" />
+        <mxCell id="EcNeO7zOBYpXXdtmW0NH-2" value="&lt;div&gt;&lt;div&gt;1、功能需求：&lt;/div&gt;&lt;/div&gt;&lt;div&gt;文件上传/下载：支持大文件GB级别，提供进度反馈，断点续传，多线程上传/下载&lt;/div&gt;&lt;div&gt;文件浏览：支持浏览器以及客户端调用cli窗口获取文件列表，返回文件元信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="460" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
